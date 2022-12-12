@@ -1,0 +1,9 @@
+customer_name,amount,start_date,expiry_date,email,status
+
+ramesh,20000,2022-12-11 18:17:16.007701,2022-12-10,sandeshbikramthapa@gmail.com,paid
+
+sandesh,9844031222,2022-12-12 15:00:19.542667,2022-12-28,sandeshbikramthapa@gmail.com,unpaid
+
+aasish,1000,2022-12-12 15:31:45.290052,2023-01-09,a@gmail.com,unpaid
+
+
